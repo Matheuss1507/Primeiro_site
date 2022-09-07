@@ -2,23 +2,79 @@
     color:red;
 }
 
+#title {
+    font-size: 50px;
+    font-family: Arial;
+}
+.subtitle {
+    font-size: 45px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-family: Arial;
+}
+
 .phone_title {
-    font-size: 25px;
+    font-size: 40px;
+    margin: 0;
+    margin-bottom: 20px;
+    font-family: Arial;
 }
 
 body {
     background-color:black;
+    width: 1050px;
 }
 
-.text, .rodape_1, .rodape_2 {
+.text {
     color: white;
+}
+
+    
+
+.contatos {
+    color: white;
+    font-size: 35px;
+    list-style-type: none;
+    padding: 0;
+    padding-left: 10px;
+}
+
+.my_contacts {
+    font-size: 35px;
+    color: white;
+    margin: 0;
+}
+
+.parte_debaixo {
+    background-color: gray ;
+    padding: 10px;
+    border: 3px solid yellow;
+    margin-bottom: 15px;
 }
 
 .artigo {
     background-color: gray;
-    padding: 10px;
+    padding: 15px;
     border: 3px solid yellow;
-    margin: 10px;
+    margin-bottom: 15px;
+    border-radius: 15px;
+
+}
+.text {
+    margin: 0;
+    margin-bottom: 15px;
+    font-family: Arial;
+    font-size: 25px;
+    
+}
+.xiaomi_mi_12{
+    margin-bottom: 20px;
+    width: 500px;
+}
+
+.celular_android {
+    border: 5px solid gray;
+    width: 300px;
 }
 
  
