@@ -6,6 +6,7 @@
     font-size: 50px;
     font-family: Arial;
 }
+
 .subtitle {
     font-size: 45px;
     margin-top: 15px;
@@ -28,8 +29,6 @@ body {
 .text {
     color: white;
 }
-
-    
 
 .contatos {
     color: white;
@@ -60,6 +59,7 @@ body {
     border-radius: 15px;
 
 }
+
 .text {
     margin: 0;
     margin-bottom: 15px;
@@ -68,9 +68,8 @@ body {
     
 }
 .xiaomi_mi_12{
-    margin-left: 0px;
+    margin: 0px;
     width: 400px;
-    padding: 
 }
 
 .celular_android {
